@@ -1,3 +1,7 @@
+#Tracy Miles
+#07-06-24
+#Updated for Summer 2024 class
+
 import dns.resolver
 
 # Set the IP address of the local DNS server and a public DNS server
